@@ -1,6 +1,6 @@
 #  Machine Learning Roadmap 🚀
 
-![Machine Learning GIF] (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTllaGljNDhuZ2N2cmtneXA1djlybDF5OTFlMHJ5b3dxNzYxa2M5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif)
+![Machine Learning GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTllaGljNDhuZ2N2cmtneXA1djlybDF5OTFlMHJ5b3dxNzYxa2M5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif)
 
 
 Welcome to the **Ultimate Machine Learning Roadmap**! Whether you're just starting or looking to deepen your knowledge, this roadmap is designed to guide you step-by-step from **beginner** to **advanced** in **Machine Learning**.
