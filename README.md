@@ -209,7 +209,7 @@ Stay updated with the latest in machine learning and continue learning.
 - [Machine Learning Hindi](https://www.youtube.com/playlist?list=PL0c6jXa2V9_Jh5J1w7btEHRZK-Eaoyvjr)
 
 ### **Bangla Resources**:
-- [Machine Learning Bangla Tutorial](https://www.youtube.com/playlist?list=PL4X68fwsSvh5kF7uH0yUwqDr97nqD3eGZ)
+- [Machine Learning Bangla Tutorial](https://youtu.be/VJCLwCtfyls?si=cs32gOTyUHWCBOu9)
 - [Bangla Academy - ML Basics](https://www.youtube.com/watch?v=7QlXTf5dVk0)
 
 ---
