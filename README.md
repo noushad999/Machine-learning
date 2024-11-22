@@ -197,7 +197,7 @@ Stay updated with the latest in machine learning and continue learning.
 
 ---
 
-## 💡 **Free YouTube Resources in Multiple Languages**:
+## 💡 **Free YouTube And Web Resources in Multiple Languages**:
 
 ### **English Resources**:
 - [freeCodeCamp - Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
@@ -206,11 +206,11 @@ Stay updated with the latest in machine learning and continue learning.
 
 ### **Hindi Resources**:
 - [CodeWithHarry - Machine Learning Hindi](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
-- [Machine Learning Hindi](https://www.youtube.com/playlist?list=PL0c6jXa2V9_Jh5J1w7btEHRZK-Eaoyvjr)
+- [Wscube]([https://www.youtube.com/playlist?list=PL0c6jXa2V9_Jh5J1w7btEHRZK-Eaoyvjr](https://www.youtube.com/watch?v=Nl3NJB3IJwo&list=PLjVLYmrlmjGe-xLyoCdDrt8Nil1Alg_L3))
 
 ### **Bangla Resources**:
 - [Machine Learning Bangla Tutorial](https://youtu.be/VJCLwCtfyls?si=cs32gOTyUHWCBOu9)
-- [Bangla Academy - ML Basics](https://www.youtube.com/watch?v=7QlXTf5dVk0)
+- [Bangla  - ML Basics]([https://www.youtube.com/watch?v=7QlXTf5dVk0](https://www.bing.com/ck/a?!&&p=b9424cc0cd3b642aa3e8dbb3f4fcdb815bd9112fd597cae09cb4c30c88e6e0a8JmltdHM9MTczMjIzMzYwMA&ptn=3&ver=2&hsh=4&fclid=2507b0c0-c769-6aef-33c7-a383c6686bbb&psq=machine+learning+bangla&u=a1aHR0cHM6Ly9tbC5ob3d0b2NvZGUuZGV2Lw&ntb=1))
 
 ---
 
