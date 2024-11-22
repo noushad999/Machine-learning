@@ -1,6 +1,10 @@
 #  Machine Learning Roadmap 🚀
-![Machine Learning GIF](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif?cid=790b761145w5z8fa9upujpwjpp6nyddgizb00tv59x3ycypj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-<p><a href="https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA"></a></p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhybTlxbXBlb2VlZjdxNm12YmFtZHJid3lkZ3MxeWRxcHozeHZhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/giphy.gif" width="800" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhybTlxbXBlb2VlZjdxNm12YmFtZHJid3lkZ3MxeWRxcHozeHZhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/giphy.gif"></a></p>
+
 
 Welcome to the **Ultimate Machine Learning Roadmap**! Whether you're just starting or looking to deepen your knowledge, this roadmap is designed to guide you step-by-step from **beginner** to **advanced** in **Machine Learning**.
 
