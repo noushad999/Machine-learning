@@ -1,8 +1,5 @@
-# Ultimate Machine Learning Roadmap 🚀
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/YS57N6teaevJASvcMA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+#  Machine Learning Roadmap 🚀
+![Machine Learning GIF](https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA)
 <p><a href="https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA">via GIPHY</a></p>
 
 Welcome to the **Ultimate Machine Learning Roadmap**! Whether you're just starting or looking to deepen your knowledge, this roadmap is designed to guide you step-by-step from **beginner** to **advanced** in **Machine Learning**.
